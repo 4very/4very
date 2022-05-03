@@ -28,11 +28,10 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 0 secs              ██████████████████░░░░░░░   72.59% 
-Text                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   27.41%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -49,5 +48,5 @@ Java                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/05/2022 18:50:36 UTC
+ Last Updated on 03/05/2022 18:53:23 UTC
 <!--END_SECTION:waka-->
