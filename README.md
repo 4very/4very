@@ -57,3 +57,6 @@ Java                     3 repos             ██░░░░░░░░░�
 
  Last Updated on 04/08/2022 18:52:44 UTC
 <!--END_SECTION:waka-->
+
+## Projects I've contributed to
+Raycast: Added [VSCodium](https://github.com/VSCodium/vscodium) support to a extension. https://github.com/raycast/extensions/pull/2409
