@@ -1,17 +1,17 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2045%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 218 Contributions in the Year 2022
+> 🏆 219 Contributions in the Year 2022
  > 
 > 📦 407.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 32 Public Repositories 
+> 📜 33 Public Repositories 
  > 
 > 🔑 12 Private Repositories  
  > 
@@ -30,14 +30,14 @@
 
 ```text
 💬 Programming Languages: 
-Vue.js                   5 hrs 23 mins       █████████████░░░░░░░░░░░░   53.73% 
-TypeScript               3 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   36.4% 
-JSON                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.17% 
-Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.04% 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
+Vue.js                   7 hrs 11 mins       ████████████░░░░░░░░░░░░░   48.63% 
+TypeScript               3 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   26.36% 
+Python                   2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.4% 
+JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.1% 
+Bash                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.97%
 
 💻 Operating System: 
-Mac                      10 hrs 2 mins       █████████████████████████   100.0%
+Mac                      14 hrs 46 mins      █████████████████████████   100.0%
 
 ```
 
@@ -54,7 +54,7 @@ TypeScript               4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2022 18:56:35 UTC
+ Last Updated on 08/09/2022 19:03:13 UTC
 <!--END_SECTION:waka-->
 
 ## Projects I've contributed to
