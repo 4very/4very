@@ -44,7 +44,7 @@ Sunday       59 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💻 Operating System: 
-Mac                      3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -61,7 +61,7 @@ TypeScript               4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/11/2022 18:52:34 UTC
+ Last Updated on 06/11/2022 18:53:21 UTC
 <!--END_SECTION:waka-->
 
 ## Projects I've contributed to
