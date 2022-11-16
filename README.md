@@ -9,7 +9,7 @@
  > 
 > 📦 426.1 kB Used in GitHub's Storage 
  > 
-> 💼 Opted to Hire
+> 🚫 Not Opted to Hire
  > 
 > 📜 36 Public Repositories 
  > 
@@ -61,7 +61,7 @@ TypeScript               4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2022 18:51:55 UTC
+ Last Updated on 16/11/2022 18:53:25 UTC
 <!--END_SECTION:waka-->
 
 ## Projects I've contributed to
