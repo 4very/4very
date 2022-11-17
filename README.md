@@ -5,7 +5,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 280 Contributions in the Year 2022
+> 🏆 281 Contributions in the Year 2022
  > 
 > 📦 426.1 kB Used in GitHub's Storage 
  > 
@@ -44,7 +44,7 @@ Sunday       59 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 39 mins        █████████████████████████   100.0%
 
 ```
 
@@ -61,7 +61,7 @@ TypeScript               4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/11/2022 18:53:25 UTC
+ Last Updated on 17/11/2022 18:53:00 UTC
 <!--END_SECTION:waka-->
 
 ## Projects I've contributed to
