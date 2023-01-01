@@ -5,7 +5,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 313 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 427.6 kB Used in GitHub's Storage 
  > 
@@ -44,7 +44,7 @@ Sunday       59 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      5 hrs 38 mins       █████████████████████████   100.0%
 
 ```
 
@@ -61,7 +61,7 @@ C++                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2022 18:45:26 UTC
+ Last Updated on 01/01/2023 18:43:35 UTC
 <!--END_SECTION:waka-->
 
 ## Projects I've contributed to
