@@ -44,7 +44,7 @@ Sunday       59 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💻 Operating System: 
-Mac                      5 hrs 38 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -61,7 +61,7 @@ C++                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/01/2023 18:44:23 UTC
+ Last Updated on 08/01/2023 18:44:19 UTC
 <!--END_SECTION:waka-->
 
 ## Projects I've contributed to
